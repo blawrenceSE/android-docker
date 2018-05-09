@@ -11,4 +11,4 @@
 5. Make sure you grab the admin password from the logging output
 6. Go to `localhost:4000` and complete the setup steps.
 
-Some configuration will need to be done to set up a security policy and the app project itself. But the container should be able to spin up ready to go. 
+Some configuration will need to be done to set up a security policy and the app project itself. But the container should be able to spin up ready to go.
